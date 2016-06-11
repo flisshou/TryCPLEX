@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Vendor: IBM Corp. 
+Implementation-Vendor: IBM Corp.
+Created-By: 1.6.0 (IBM Corporation)
+Build-Date: 2015-10-22
+Implementation-Version: 12.6.3.0
+Implementation-Title: ilog.cplex
+Specification-Version: 1.0
+Specification-Title: IBM ILOG CPLEX Optimization Studio
+
